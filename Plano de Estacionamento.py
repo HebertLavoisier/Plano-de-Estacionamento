@@ -1,3 +1,5 @@
+#Dupla: Valber Maia de Alencar, Hebert Lavoisier Raulino
+
 def calculo(n, lista):
     lista_qualquer = [] #vai armazenar os 'V_i' das pessoas q estacionaram
     vagas = n #impedir que tenha mais pessoas estacionadas doque numero de vagas livres
